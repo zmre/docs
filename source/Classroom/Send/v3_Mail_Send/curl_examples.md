@@ -37,18 +37,6 @@ curl --request POST \
 {% endcodeblock %}
 
 {% anchor h2 %}
-Sending a Basic Email to Multiple Recipients
-{% endanchor %}
-
-{% codeblock lang:bash %}
-curl --request POST \
-  --url https://api.sendgrid.com/v3/mail/send \
-  --header 'authorization: Bearer YOUR_API_KEY' \
-  --header 'Content-Type: application/json' \
-  --data '{"personalizations": [{"to": [{"email": "recipient@example.com"}],"cc": [{"email":"recipient2@example.com"}, {"email": "recipient3@example.com"}, {"email ":"recipient4@example.com"}]}], "from": {"email": "dx@sendgrid.com"},"subject":"Hello, World!", "content": [{"type": "text/plain", "value": "Heya!"}]}'
-{% endcodeblock %}
-
-{% anchor h2 %}
 Sending a Basic Email Using a Template
 {% endanchor %}
 
