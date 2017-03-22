@@ -9,11 +9,19 @@ navigation:
   show: true
 ---
 
+## [Legacy Newsletter Sunset]()
+
+* [Why are you retiring Legacy Newsletter?]()
+* [How long will Legacy Newsletter be available?]()
+* [What will happen to my account when the product is retired?]()
+* [What if I choose not to migrate?]()
+
 ## [Pricing](#-Pricing)
 
 * [How can I estimate what it will cost to use Marketing Campaigns?](#-How-can-I-estimate-what-it-will-cost-to-use-Marketing-Campaigns)
 * [Why does Marketing Campaigns charge me for storing contacts?](#-Why-does-Marketing-Campaigns-charge-me-for-storing-contacts)
 * [What is the additional value of Marketing Campaigns vs. Legacy Newsletter?](#-What-is-the-additional-value-of-Marketing-Campaigns-vs-Legacy-Newsletter)
+* [I'm using Marketing Campaigns, why am I still being billed for Legacy Newsletter?]()
 
 ## [Migrating](#-Migrating)
 
