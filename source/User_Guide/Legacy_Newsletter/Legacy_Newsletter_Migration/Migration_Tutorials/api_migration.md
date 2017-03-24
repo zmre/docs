@@ -51,18 +51,16 @@ Response
 {% endanchor %}
 
 {% codeblock lang:json %}
-{
-  [
-    {
-      "name": "Legacy Newsletter",
-      "newsletter_id": 560308
-    },
-    {
-      "name": "Legacy Newsletter Test",
-      "newsletter_id": 560869
-    }
-  ]
-}
+[
+  {
+    "name": "Legacy Newsletter",
+    "newsletter_id": 560308
+  },
+  {
+    "name": "Legacy Newsletter Test",
+    "newsletter_id": 560869
+  }
+]
 {% endcodeblock %}
 
 {% anchor h3 %}
@@ -166,14 +164,12 @@ Response
 {% endanchor %}
 
 {% codeblock lang:json %}
-{
-  [
-    {
-      "id": 1,
-      "list": "Legacy Newsletter list of recipients"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "list": "Legacy Newsletter list of recipients"
+  }
+]
 {% endcodeblock %}
 
 {% anchor h2 %}
@@ -195,14 +191,12 @@ Response
 {% endanchor %}
 
 {% codeblock lang:json %}
-{
-  [
-    {
-      "email": "dx@sendgrid.com",
-      "name": "SendGrid DX Team"
-    }
-  ]
-}
+[
+  {
+    "email": "dx@sendgrid.com",
+    "name": "SendGrid DX Team"
+  }
+]
 {% endcodeblock %}
 
 {% anchor h3 %}

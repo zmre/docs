@@ -11,10 +11,10 @@ navigation:
 
 ## [Legacy Newsletter Sunset]()
 
-* [Why are you retiring Legacy Newsletter?]()
-* [How long will Legacy Newsletter be available?]()
-* [What will happen to my account when the product is retired?]()
-* [What if I choose not to migrate?]()
+* [Why are you retiring Legacy Newsletter?](#-Why-are-you-retiring-Legacy-Newsletter)
+* [How long will Legacy Newsletter be available?](#-How-long-will-Legacy-Newsletter-be-available)
+* [What will happen to my account when the product is retired?](#-What-will-happen-to-my-account-when-the-product-is-retired)
+* [What if I choose not to migrate?](#-What-if-I-choose-not-to-migrate)
 
 ## [Pricing](#-Pricing)
 
