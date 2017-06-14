@@ -232,9 +232,11 @@ Redirect 301 /Integrate/Code_Examples/ruby.html http://sendgrid.com/docs/Integra
 #######
 Redirect 301 /Classroom/Send/index.html https://sendgrid.com/docs/index.html
 Redirect 301 /Classroom/Track/index.html https://sendgrid.com/docs/index.html
-Redirect 301 /Classroom/Basics/password.html /Classroom/Basics/Security/password.html
-Redirect 301 /Classroom/Deliver/warming_up_ips.html /Classroom/Deliver/Delivery_Introduction/warming_up_ips.html
-Redirect 301 /Classroom/Send/api_keys.html /Classroom/Send/How_Emails_Are_Sent/api_keys.html
+Redirect 301 /Classroom/Basics/password.html https://sendgrid.com/docs/Classroom/Basics/Security/password.html
+Redirect 301 /Classroom/Deliver/warming_up_ips.html https://sendgrid.com/docs/Classroom/Deliver/Delivery_Introduction/warming_up_ips.html
+Redirect 301 /Classroom/Send/api_keys.html https://sendgrid.com/docs/Classroom/Send/How_Emails_Are_Sent/api_keys.html
+Redirect 301 /Classroom/Deliver/Undeliverable_Email/how_sendgrid_handles_550_requested_action_not_taken_mailbox_unavailable_bounces.html https://sendgrid.com/docs/Classroom/Track/Bounces/common_smtp_server_bounce_responses.html
+Redirect 301 /Classroom/Troubleshooting/your_account_is_still_being_provisioned_you_may_not_be_able_to_send_emails.html https://sendgrid.com/docs/Classroom/Troubleshooting/Account_Administration/your_account_is_still_being_provisioned_you_will_not_be_able_to_send_out_any_email.html
 
 #######
 #
@@ -486,7 +488,9 @@ Redirect 301 /Glossary/ip_whitelabeling.html https://sendgrid.com/docs/User_Guid
 Redirect 301 /Glossary/bulk_sender_notification.html https://sendgrid.com/docs/Glossary/index.html
 Redirect 301 /Glossary/provisioning.html https://sendgrid.com/docs/Classroom/Basics/Account/account_sign_up_faq.html
 Redirect 301 /Glossary/marketing_email.html https://sendgrid.com/docs/Glossary/email_marketing.html
-Redirect 301 Glossary/email_error_messages.html /Classroom/Track/Bounces/common_smtp_server_bounce_responses.html
+Redirect 301 /Glossary/email_error_messages.html /Classroom/Track/Bounces/common_smtp_server_bounce_responses.html
+Redirect 301 /Glossary/sender_reputation.html https://sendgrid.com/docs/Classroom/Basics/Misc/your_reputation_what_is_it.html
+Redirect 301 /Glossary/triggering_events.html https://sendgrid.com/docs/Glossary/automated_email.html
 
 #######
 #
@@ -635,7 +639,6 @@ Redirect 301 /User_Guide/Settings/domain_keys.html https://sendgrid.com/docs/Use
 #this app went away as of May 27, 2015
 Redirect 301 /User_Guide/Settings/credentials.html https://sendgrid.com/docs/User_Guide/Settings/teammates.html
 Redirect 301 /User_Guide/Settings/gravatar.html https://sendgrid.com/docs/User_Guide/Settings/index.html
-Redirect 301 /User_Guide/Settings/two_factor_authentication.html https://sendgrid.com/docs/User_Guide/Settings/two_factor_authentication.html
 Redirect 301 /User_Guide/smtp_ports.html https://sendgrid.com/docs/User_Guide/Setting_Up_Your_Server/smtp_ports.html
 Redirect 301 /User_Guide/template_engine_setup.html https://sendgrid.com/docs/User_Guide/Transactional_Email/Template_Engine/setup_guide.html
 Redirect 301 /User_Guide/throttling.html https://sendgrid.com/docs/Glossary/throttling.html
@@ -645,6 +648,8 @@ Redirect 301 /User_Guide/warming_up.html https://sendgrid.com/docs/Classroom/Del
 Redirect 301 /User_Guide/whitelabel_wizard.html https://sendgrid.com/docs/User_Guide/Settings/Whitelabel/index.html
 Redirect 301 /User_Guide/Settings/multifactor_authentication.html https://sendgrid.com/docs/User_Guide/Settings/two_factor_authentication.html
 Redirect 301 /User_Guide/multifactor_authentication.html https://sendgrid.com/docs/User_Guide/Settings/two_factor_authentication.html
+Redirect 301 /User_Guide/Marketing_Campaigns/Campaigns/index.html https://sendgrid.com/docs/User_Guide/Marketing_Campaigns/campaigns.html
+Redirect 301 /User_Guide/Marketing_Campaigns/Campaigns/a_b_testing.html https://sendgrid.com/docs/User_Guide/Marketing_Campaigns/a_b_testing.html
 
 #######
 #
@@ -660,6 +665,18 @@ Redirect 301 /User_Guide/Legacy_Features/Marketing_Emails/recipients.html https:
 Redirect 301 /User_Guide/Legacy_Features/Marketing_Emails/sender_address.html https://sendgrid.com/docs/User_Guide/Legacy_Newsletter/Legacy_Newsletter_Features/sender_address.html
 Redirect 301 /User_Guide/Legacy_Features/Marketing_Emails/tags.html https://sendgrid.com/docs/User_Guide/Legacy_Newsletter/Legacy_Newsletter_Features/tags.html
 Redirect 301 /User_Guide/Legacy_Features/Marketing_Emails/unsubscribes.html https://sendgrid.com/docs/User_Guide/Legacy_Newsletter/Legacy_Newsletter_Features/unsubscribes.html
+
+#######
+#
+# /Utilities
+#
+#######
+
+Redirect 301 /Utilities/event_kit.html https://sendgrid.com/docs/Integrate/tutorials/event_kit.html
+Redirect 301 /Utilities/deliverabilitycenter.html https://sendgrid.com/docs/Integrate/index.html
+Redirect 301 /Utilities/index.html https://sendgrid.com/docs/Integrate/index.html
+Redirect 301 /Utilities/list_assist.html https://sendgrid.com/docs/Integrate/index.html
+Redirect 301 /Utilities/smtpapi_validator.html https://sendgrid.com/docs/Integrate/index.html
 
 #######
 #
