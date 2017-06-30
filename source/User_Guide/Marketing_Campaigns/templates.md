@@ -1,6 +1,6 @@
 ---
 layout: page
-weight: 80
+weight: 95
 title: Marketing Templates
 navigation:
   show: true

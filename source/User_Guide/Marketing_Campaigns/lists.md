@@ -1,6 +1,6 @@
 ---
 layout: page
-weight: 20
+weight: 90
 title: Lists and Segmentation
 navigation:
   show: true
